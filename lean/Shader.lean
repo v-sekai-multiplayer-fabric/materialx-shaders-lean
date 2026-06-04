@@ -4,6 +4,8 @@ import Shader.Toon.SCSS
 import Shader.Vector
 import Shader.MaterialX
 import Shader.MaterialXNPR
+import Shader.Splat
+import Shader.MaterialXEval
 
 /-! # materialx-shaders — root
 
