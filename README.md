@@ -1,5 +1,7 @@
 # materialx-shaders (Lean 4)
 
+**Conceptual Sketch. Not pre-alpha yet.**
+
 A Lean 4 formalization that models **PBR, NPR, and vector** shaders under a
 single representation: **MaterialX**.
 
